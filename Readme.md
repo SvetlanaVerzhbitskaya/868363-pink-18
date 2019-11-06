@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Светлана Вержбицкая](https://up.htmlacademy.ru/adaptive/18/user/868363).
-* Наставник: `Неизвестно`.
+* Наставник: [Кексобот].
 
 ---
 
